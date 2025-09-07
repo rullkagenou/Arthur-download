@@ -1,0 +1,14 @@
+{
+  "name": "RullzDownload",
+  "version": "1.0.0",
+  "description": "Downloader AIO dengan Express proxy",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.2"
+  }
+}
